@@ -1,0 +1,53 @@
+{
+  "name": "cardapio-digital",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Este é um projeto desenvolvido com template boostrap e PHP",
+  "keywords": [
+    "cardápio",
+    "cardápio-template",
+    "comida",
+    "comida-Template",
+    "Bootstrap 4 Template",
+    "Bootstrap 4",
+    "HTML",
+    "SCSS",
+    "CSS",
+    "Bootstrap",
+    "responsivo",
+    "Showcase"
+  ],
+  "homepage": "",
+  "author": "Guilherme da Silva Ferreira",
+  "bugs": {
+    "url": "https://github.com/orbitthemes/album/issues",
+    "email": "contato.guilhermesf@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Guilherme da Silva Ferreira",
+      "email": "contato.guilhermesf@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orbitthemes/album.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "2.24.4",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "3.9.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "4.0.1",
+    "gulp-uglify": "3.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "4.1.1",
+    "font-awesome": "4.7.0",
+    "jquery": "3.3.1",
+    "popper.js": "1.14.3"
+  }
+}

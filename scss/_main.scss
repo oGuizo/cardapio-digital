@@ -1,0 +1,37 @@
+/*
+Theme Name: Album - Your Favourite Stuffs
+Theme URI: https://www.orbitthemes.com
+Author: Sandeep Prasad Bhatt
+Author URI: http://www.sandeepbhatt.com.np
+Description: Album - Bootstrap 4 Template Showing Your Favourite Stuffs
+Create date: April 2, 2018
+Version: 1.0
+License: Commercial, All rights reserved - orbitthemes.com
+Tags: Responsive Bootstrap 4 template , bootstrap 4 Photography template, bootstrap4 template, Album template
+Text Domain: orbitthemes.com
+*/
+
+html,
+body {
+    height: 100%;
+}
+
+img {
+    max-width: 100%;
+    vertical-align: top;
+}
+
+#main{
+    #mainBanner{
+        margin-bottom: 0;
+    }
+    #collection-heading{
+        text-align: center;
+        margin-bottom: 20px;
+        span{
+            font-size: 2rem;
+            border-bottom: 1px solid $light-black;
+            padding: 5px;
+        }
+    }
+}

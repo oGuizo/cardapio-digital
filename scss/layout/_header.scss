@@ -1,0 +1,21 @@
+#header {
+    .navbar-toggler {
+        outline: none;
+    }
+    #contact-info {
+        ul {
+            li {
+                a {
+                    i {
+                        min-width: 25px;
+                    }
+                }
+            }
+        }
+    }
+    #header-logo {
+        img {
+            width: 200px;
+        }
+    }
+}
